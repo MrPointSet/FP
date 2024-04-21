@@ -1,0 +1,8 @@
+{
+    "name": "Haskell",
+    "image": "haskell:8",
+    "settings": { 
+        "terminal.integrated.shell.linux": "/bin/bash"
+    },
+    "extensions": ["haskell.haskell"]
+}
